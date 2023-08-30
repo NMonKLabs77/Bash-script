@@ -12,7 +12,8 @@
 
 1) Access the Crontab configuration with: crontab -e
 2) Press "i" to be enable editing mode
-3) Type this code on to specify day and time to run build.sh script:  0 23 * * 5 echo "Script is scheduled to run!" >>  ~/build.sh
+3) Type this code on to specify day and time to run build.sh script:  0 23 * * 5 echo "Script is scheduled to run!"  >>  ~/build.sh
 4) Press "ESC" to exit
 5) Type "w" to save Crontab
 6) Type "q" to exit Crontab
+7) To see your Crontab, enter : crontab -l 
