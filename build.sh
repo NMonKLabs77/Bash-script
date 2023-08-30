@@ -16,7 +16,7 @@ upgradable_packages=$(apt list --upgradable | wc -l)
 
 # Create a file with the current date
 
-results="file_log_$(date +'%Y-%m-%d').txt"
+results="file_log_$(date +'%Y-%m-%d').txt" 
 
 
 # write the number of upgradable packages to file
