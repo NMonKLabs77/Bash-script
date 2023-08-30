@@ -1,6 +1,6 @@
 # Bash-script
 
-<p>I created a s bash script that Would run every friday at 11pm using CRON.It updates the server,
+<p>I created a bash script that Would run every Friday at 11pm using CRON.It updates the server,
   creates a new file with the line about how many packages can be upgraded
   that outputs to the screen and saves file with the current date appended to it </p>
  
