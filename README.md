@@ -3,7 +3,7 @@
 <p>I created a s bash script that Would run every friday at 11pm using CRON.It updates the server,
   creates a new file with the line about how many packages can be upgraded
   that outputs to the screen and saves file with the current date appended to it </p>
- <a href="/main/build.sh">Link to Bash Script</a>
+ <a href="/main">Link to Bash Script</a>
 
 
 ## How I went about Setting up the CRON task
