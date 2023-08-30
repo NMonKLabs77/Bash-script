@@ -4,7 +4,7 @@
   creates a new file with the line about how many packages can be upgraded
   that outputs to the screen and saves file with the current date appended to it </p>
  
- [Link to Bash Script](main/build.sh)
+ [Link to Bash Script](/build.sh)
 
 
 
